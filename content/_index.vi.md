@@ -7,6 +7,7 @@ chapter: false
 
 # Báo cáo thực tập
 ### Thông tin sinh viên:
+<<<<<<< HEAD
 &emsp; **Họ và tên:** Nguyễn Thành Đạt
 
 &emsp; **Số điện thoại:** 0828801501
@@ -18,12 +19,29 @@ chapter: false
 &emsp; **Ngành:** Công nghệ thông tin
 
 &emsp; **Lớp:** 22DTH4
+=======
+&emsp; **Họ và tên:** Nguyễn Văn A
+
+&emsp; **Số điện thoại:** 0989888999
+
+&emsp; **Email:** Anguyenvan@gmail.com
+
+&emsp; **Trường:** Đại học Sư phạm Kỹ thuật TP.HCM
+
+&emsp; **Ngành:** Công nghệ thông tin
+
+&emsp; **Lớp:** AWS082025
+>>>>>>> c49d6013b9339beee033cfb09bf97e6690180511
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Viet Nam
 
 &emsp; **Vị trí thực tập:** Workforce Bootcamp - First Cloud AI Journey
 
+<<<<<<< HEAD
 &emsp; **Thời gian thực tập:** Từ ngày 01/07/2026 đến ngày 31/12/2026
+=======
+&emsp; **Thời gian thực tập:** Từ ngày 12/08/2025 đến ngày 12/11/2025
+>>>>>>> c49d6013b9339beee033cfb09bf97e6690180511
 
 ![Ảnh đại diện của bạn](/images/avatar.png)
 

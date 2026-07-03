@@ -11,7 +11,11 @@ pre: " <b> 2. </b> "
 
 Tại phần này, bạn cần tóm tắt các nội dung trong workshop mà bạn **dự tính** sẽ làm.
 
+<<<<<<< HEAD
 # Meeting Note Summarizer 
+=======
+# IoT Weather Platform for Lab Research  
+>>>>>>> c49d6013b9339beee033cfb09bf97e6690180511
 ## Giải pháp AWS Serverless hợp nhất cho giám sát thời tiết thời gian thực  
 
 ### 1. Tóm tắt điều hành  

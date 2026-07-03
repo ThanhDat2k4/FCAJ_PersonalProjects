@@ -13,6 +13,7 @@ chapter: false
 {{% /notice %}}
 
 ### Student Information:
+<<<<<<< HEAD
 &emsp; **Full Name:** Nguyen Thanh Dat
 
 &emsp; **Phone Number:** 0828801501
@@ -24,14 +25,33 @@ chapter: false
 &emsp; **Major:** Information Technology
 
 &emsp; **Class:** 22DTH4
+=======
+&emsp; **Full Name:** Nguyen Van A
+
+&emsp; **Phone Number:** 0989888999 
+
+&emsp; **Email:** Anguyenvan@gmail.com
+
+&emsp; **University:** Ho Chi Minh City University of Technology and Education
+
+&emsp; **Major:** Information Technology
+
+&emsp; **Class:** AWS082025
+>>>>>>> c49d6013b9339beee033cfb09bf97e6690180511
 
 &emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
 
 &emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
+<<<<<<< HEAD
 &emsp; **Internship Duration:** From 01/07/2026 to 31/12/2026
 
 ![Your profile picture](/images/Avatar.png)
+=======
+&emsp; **Internship Duration:** From 12/08/2025 to 12/11/2025
+
+![Your profile picture](/images/avatar.png)
+>>>>>>> c49d6013b9339beee033cfb09bf97e6690180511
 
 ### Report Content
 
